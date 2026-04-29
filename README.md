@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Codeforces+Expert;4⭐+CodeChef;Backend+Developer;Machine+Learning+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Codeforces+Expert;5⭐+CodeChef;Backend+Developer;Machine+Learning+Explorer;Problem+Solver" />
 </p>
 
 ---
@@ -23,25 +23,42 @@
 ## 🧠 Competitive Programming
 
 <p align="center">
-  🟡 <a href="https://codeforces.com/profile/03mishramayank123">Codeforces Expert</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🔵 <a href="https://www.codechef.com/users/mishra_mayank">CodeChef 4⭐</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟠 <a href="https://leetcode.com/mayank211203mishra">LeetCode</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟢 <a href="https://auth.geeksforgeeks.org/user/mayank2112l6z8">GeeksforGeeks</a>
+  <a href="https://codeforces.com/profile/03mishramayank123">
+    <img src="https://img.shields.io/badge/Codeforces-Expert-blue?style=for-the-badge&logo=codeforces"/>
+  </a>
+  <a href="https://www.codechef.com/users/mishra_mayank">
+    <img src="https://img.shields.io/badge/CodeChef-5⭐-brown?style=for-the-badge&logo=codechef"/>
+  </a>
+  <a href="https://leetcode.com/mayank211203mishra">
+    <img src="https://img.shields.io/badge/LeetCode-1680-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/mayank2112l6z8">
+    <img src="https://img.shields.io/badge/GFG-5⭐-green?style=for-the-badge"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=03mishramayank123" />
-  <img src="https://codechef-readme-stats.vercel.app/api/card?username=mishra_mayank&theme=dark" />
 </p>
+
+---
+
+## 🏆 Achievements
+
+* 🟡 Codeforces Expert
+* 🔵 CodeChef 4⭐
+* 🔥 LeetCode 1600+ rating
+* 💯 GeeksforGeeks 5⭐
+* 🚀 Strong foundation in **Data Structures & Algorithms**
 
 ---
 
 ## 🚀 About Me
 
 * 🔭 Building **scalable backend systems & real-time apps**
-* 🌱 Exploring **System Design + Advanced DSA + ML**
+* 🌱 Exploring **System Design + Advanced DSA + Machine Learning**
 * ⚡ Strong in **problem solving, debugging & optimization**
-* 💬 Ask me about **DSA, APIs, Backend architecture**
+* 💬 Ask me about **DSA, Backend, APIs, Performance**
 * ☕ I optimize code more than I optimize sleep
 
 ---
@@ -49,7 +66,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,nodejs,express,react,mongodb,mysql,postgres,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,nodejs,express,react,mongodb,mysql,postgres,docker,git,github,linux,aws" />
 </p>
 
 ---
@@ -59,8 +76,8 @@
 ### 🌾 Farm Connect
 
 * Platform connecting farmers directly with buyers
-* Full-stack application with real-world impact
-* Focused on scalability, usability & backend performance
+* Built with **full-stack architecture**
+* Focused on **scalability, usability & real-world impact**
 
 🔗 https://farm-connect-henna.vercel.app/
 
