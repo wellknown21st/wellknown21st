@@ -71,7 +71,8 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/wellknown21st/wellknown21st/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/wellknown21st/wellknown21st/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/wellknown21st/wellknown21st/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </p>
 
 ---
