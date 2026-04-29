@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Codeforces+Expert;5⭐+CodeChef;Backend+Developer;Machine+Learning+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Codeforces+Expert;4⭐+CodeChef;Backend+Developer;Machine+Learning+Explorer" />
 </p>
 
 ---
@@ -24,11 +24,14 @@
 
 <p align="center">
   🟡 <a href="https://codeforces.com/profile/03mishramayank123">Codeforces Expert</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🔵 <a href="https://www.codechef.com/users/mishra_mayank">CodeChef 5⭐</a> &nbsp;&nbsp;
+  🔵 <a href="https://www.codechef.com/users/mishra_mayank">CodeChef 4⭐</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟠 <a href="https://leetcode.com/mayank211203mishra">LeetCode</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟢 <a href="https://auth.geeksforgeeks.org/user/mayank2112l6z8">GeeksforGeeks</a>
 </p>
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=03mishramayank123" />
+  <img src="https://codechef-readme-stats.vercel.app/api/card?username=mishra_mayank&theme=dark" />
 </p>
 
 ---
