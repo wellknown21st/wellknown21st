@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Codeforces+Expert;5⭐+CodeChef;LeetCode+1680;Backend+Developer;Machine+Learning+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Codeforces+Expert;5⭐+CodeChef;LeetCode;Backend+Developer;Machine+Learning+Explorer" />
 </p>
 
 ---
@@ -13,10 +13,10 @@
 ## 🧠 Competitive Programming
 
 <p align="center">
-  🟡 Codeforces Expert &nbsp;&nbsp;|&nbsp;&nbsp;
-  🔵 CodeChef 5⭐ &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟠 LeetCode 1680 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟢 GeeksforGeeks 5⭐
+  🟡 <a href="https://codeforces.com/profile/03mishramayank123">Codeforces Expert</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🔵 <a href="https://www.codechef.com/users/mishra_mayank">CodeChef 5⭐</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟠 <a href="https://leetcode.com/mayank211203mishra">LeetCode</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟢 <a href="https://auth.geeksforgeeks.org/user/mayank2112l6z8">GeeksforGeeks 5⭐</a>
 </p>
 
 ---
@@ -27,16 +27,14 @@
 * 🌱 Exploring **System Design + Advanced DSA + ML**
 * ⚡ Strong in **problem solving, debugging & optimization**
 * 💬 Ask me about **DSA, APIs, Backend architecture**
-* ☕ I turn caffeine into optimized code
+* ☕ I optimize code more than I optimize sleep
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,nodejs,express,mongodb,mysql,docker,git" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,nodejs,express,mongodb,mysql,docker,git" />
 </p>
 
 ---
