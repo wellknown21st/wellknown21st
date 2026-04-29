@@ -10,6 +10,16 @@
 
 ---
 
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://portfolio-3d-xi-lilac.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🧠 Competitive Programming
 
 <p align="center">
@@ -39,18 +49,30 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,nodejs,express,mongodb,mysql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,nodejs,express,react,mongodb,mysql,postgres,docker,git,github,linux" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🌾 Farm Connect (Core Project)
+
+* Platform connecting farmers directly with buyers
+* Full-stack application with real-world use case
+* Focus on scalability and usability
+
+🔗 https://farm-connect-henna.vercel.app/
+
+---
+
 ### ✈️ Flight Tracker
 
 * Real-time tracking using OpenSky API
 * Built resilient backend with fallback logic
 * Optimized polling + timeout handling
+
+---
 
 ### 🤖 AI Attendance System
 
