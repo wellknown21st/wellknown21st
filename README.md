@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/CodeChef-5⭐-brown?style=for-the-badge&logo=codechef"/>
   </a>
   <a href="https://leetcode.com/mayank211203mishra">
-    <img src="https://img.shields.io/badge/LeetCode-1680-orange?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/mayank2112l6z8">
     <img src="https://img.shields.io/badge/GFG-5⭐-green?style=for-the-badge"/>
