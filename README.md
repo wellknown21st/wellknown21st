@@ -37,14 +37,13 @@
   </a>
 </p>
 
-
 ---
 
 ## 🏆 Achievements
 
 * 🟡 Codeforces Expert
 * 🔵 CodeChef 5⭐
-* 🔥 LeetCode
+* 🔥 Active Competitive Programmer
 * 💯 GeeksforGeeks 5⭐
 * 🚀 Strong foundation in **Data Structures & Algorithms**
 
@@ -110,6 +109,16 @@
   </a>
   <a href="mailto:mayank211203mishra@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## 🎥 Content
+
+<p align="center">
+  <a href="https://www.youtube.com/@myanecdote/featured">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube"/>
   </a>
 </p>
 
