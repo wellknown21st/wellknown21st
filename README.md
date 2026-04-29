@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Codeforces+Expert;4⭐+CodeChef;LeetCode+1680;Backend+Developer;Machine+Learning+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Codeforces+Expert;5⭐+CodeChef;Backend+Developer;Machine+Learning+Explorer" />
 </p>
 
 ---
@@ -24,14 +24,11 @@
 
 <p align="center">
   🟡 <a href="https://codeforces.com/profile/03mishramayank123">Codeforces Expert</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🔵 <a href="https://www.codechef.com/users/mishra_mayank">CodeChef 4⭐</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟠 <a href="https://leetcode.com/mayank211203mishra">LeetCode (1680)</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟢 <a href="https://auth.geeksforgeeks.org/user/mayank2112l6z8">GeeksforGeeks 5⭐</a>
+  🔵 <a href="https://www.codechef.com/users/mishra_mayank">CodeChef 5⭐</a> &nbsp;&nbsp;
 </p>
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=03mishramayank123" />
-  <img src="https://leetcard.jacoblin.cool/mayank211203mishra?theme=dark&font=Baloo&ext=contest" />
 </p>
 
 ---
@@ -54,31 +51,15 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Core Project
 
-### 🌾 Farm Connect (Core Project)
+### 🌾 Farm Connect
 
 * Platform connecting farmers directly with buyers
-* Full-stack application with real-world use case
-* Focus on scalability and usability
+* Full-stack application with real-world impact
+* Focused on scalability, usability & backend performance
 
 🔗 https://farm-connect-henna.vercel.app/
-
----
-
-### ✈️ Flight Tracker
-
-* Real-time tracking using OpenSky API
-* Built resilient backend with fallback logic
-* Optimized polling + timeout handling
-
----
-
-### 🤖 AI Attendance System
-
-* Facial recognition-based attendance
-* Hackathon project
-* ML + backend integration
 
 ---
 
