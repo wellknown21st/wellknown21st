@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋 I'm Mayank Mishra</h1>
 
 <p align="center">
-  🚀 AIML Engineer • Backend Developer • Competitive Programmer
+  🚀 Backend Engineer • System Design Enthusiast • Competitive Programmer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Codeforces+Expert;5⭐+CodeChef;LeetCode;Backend+Developer;Machine+Learning+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Codeforces+Expert;5⭐+CodeChef;Backend+Systems+%26+APIs;Distributed+Systems+Learner;Machine+Learning+Explorer" />
 </p>
 
 ---
@@ -23,35 +23,50 @@
 
 ## 🚀 About Me
 
-* 🔭 Building **scalable backend systems & real-time apps**
-* 🌱 Exploring **System Design + Advanced DSA + ML**
-* ⚡ Strong in **problem solving, debugging & optimization**
-* 💬 Ask me about **DSA, APIs, Backend architecture**
-* ☕ I optimize code more than I optimize sleep
+* 🔭 Building **scalable backend systems, APIs & async pipelines**
+* 🌱 Exploring **System Design, Distributed Systems & AI integration**
+* ⚡ Strong in **DSA, debugging, performance optimization**
+* 💬 Ask me about **Backend Architecture, Queues, Databases**
+* ☕ I optimize APIs, not sleep cycles
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,nodejs,express,mongodb,mysql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,nodejs,express,postgres,mongodb,redis,docker,git" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🔥 AI Content Publishing Engine (Credes Assignment)
+
+* Built **end-to-end backend system** with:
+
+  * JWT Auth + Refresh Token Rotation
+  * Telegram Bot (stateful flow with Redis)
+  * AI Integration (OpenAI + Claude)
+  * Queue System using BullMQ (retry + backoff)
+  * Multi-platform publishing pipeline
+* Designed **scalable architecture (DB + Queue + APIs)**
+* Deployed with **live API + webhook bot**
+
+---
+
 ### ✈️ Flight Tracker
 
-* Real-time tracking using OpenSky API
-* Built resilient backend with fallback logic
-* Optimized polling + timeout handling
+* Real-time flight tracking using OpenSky API
+* Built **resilient backend with fallback logic**
+* Optimized polling, timeout & failure handling
+
+---
 
 ### 🤖 AI Attendance System
 
-* Facial recognition-based attendance
-* Hackathon project
-* ML + backend integration
+* Facial recognition-based attendance system
+* Built during hackathon (ML + backend integration)
 
 ---
 
@@ -64,15 +79,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellknown21st&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wellknown21st/wellknown21st/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/wellknown21st/wellknown21st/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </p>
 
 ---
@@ -91,5 +97,5 @@
 ---
 
 <p align="center">
-  ⚡ "Consistency in problem solving beats talent over time"
+  ⚡ "Build systems that scale, not just code that works"
 </p>
