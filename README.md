@@ -37,17 +37,14 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=03mishramayank123" />
-</p>
 
 ---
 
 ## 🏆 Achievements
 
 * 🟡 Codeforces Expert
-* 🔵 CodeChef 4⭐
-* 🔥 LeetCode 1600+ rating
+* 🔵 CodeChef 5⭐
+* 🔥 LeetCode
 * 💯 GeeksforGeeks 5⭐
 * 🚀 Strong foundation in **Data Structures & Algorithms**
 
