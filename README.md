@@ -75,7 +75,7 @@
 * Built with **full-stack architecture**
 * Focused on **scalability, usability & real-world impact**
 
-🔗 https://farm-connect-henna.vercel.app/
+🔗 www.farmcon.in
 
 ---
 
